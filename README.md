@@ -39,7 +39,7 @@
 </ul>
 <hr>
 <h1>3. Tổng quan dự án</h1>
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMwX1pbMfckQ5Q7Sj3rszg7RsCKLZkQfGmSlV_BODRG528bOQ2Pjl4=w960-h540-s-no-gm?authuser=0" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYk3Pdy3vjzp13_cSg_Vm-rfVywSfiTSoNXQMdeGfaThSBae-XjzvgQe8leZXtGUavw2NYmVySlDJ0Ou2Ymzod8Llr2uLMEPi2fZee_m19NAcjZeiEY3LIuyk9H5CuT5fiZVSMnXVOR-J216-t9Q_y_EtVBdY3pBYQtDpWFUm_gRRP_y5b2GqzvJ6/s960/132.png" />
 <hr>
 <h1>4. Mô tả dự án</h1>
 <h3>4.1. Mô tả</h3>
