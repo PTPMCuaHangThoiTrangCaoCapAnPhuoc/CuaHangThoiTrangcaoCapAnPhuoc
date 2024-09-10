@@ -1,4 +1,5 @@
 <h1>Đồ án: <i>Cửa hàng thời trang cao cấp An Phước</i></h1>
+<p>Tiến độ: 0%</p>
 <hr>
 <h1>1. Thành viên:</h1>
 <table>
@@ -51,36 +52,43 @@
     <th>STT</th>
     <th>Chức năng</th>
     <th>Phân công</th>
+    <th>Tiến độ</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Đăng nhập, đăng ký</td>
     <td>2001215608</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Duyệt sản phẩm, tìm kiếm, lọc và sắp xếp</td>
     <td>2001216122</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Xem chi tiết sản phẩm, thêm vào giỏ hàng</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Giỏ hàng và thanh toán</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Thông tin thêm, tin tức và khuyến mãi</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Chatbox hỗ trợ khách hàng</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
 </table> 
 <b>Website quản lý</b>
@@ -90,31 +98,37 @@
     <th>STT</th>
     <th>Chức năng</th>
     <th>Phân công</th>
+    <th>Tiến độ</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Đăng nhập</td>
     <td>2001215608</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Quản lý danh mục sản phẩm, loại, kích cỡ, kiểu dáng,...</td>
     <td>2001216122</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Quản lý đơn hàng</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Quản lý nhập hàng</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Quản lý thông tin, tin tức và khuyến mãi</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
 </table> 
 <b>Application cho nhân viên</b>
@@ -124,26 +138,31 @@
     <th>STT</th>
     <th>Chức năng</th>
     <th>Phân công</th>
+    <th>Tiến độ</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Đăng nhập</td>
     <td>2001215608</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Duyệt sản phẩm, tìm kiếm, lọc và sắp xếp</td>
     <td>2001216122</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Lập và xuất hóa đơn</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Thống kê doanh thu theo ngày, tháng, năm</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
   <tr>
     <td>5</td>
