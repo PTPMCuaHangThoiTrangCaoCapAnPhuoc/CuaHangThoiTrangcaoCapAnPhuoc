@@ -43,5 +43,104 @@
 <hr>
 <h1>4. Mô tả dự án</h1>
 <h3>4.1. Mô tả</h3>
-<p></p>
+<p>Hệ thống phần mềm cửa hàng thời trang An Phước được thiết kế để nâng cao hiệu quả quản lý và trải nghiệm khách hàng thông qua ba thành phần chính: một website cho người dùng, một website cho admin, và một ứng dụng dành cho nhân viên. Mỗi thành phần của hệ thống đóng vai trò quan trọng trong việc tối ưu hóa quy trình hoạt động của cửa hàng và cung cấp dịch vụ chất lượng cao cho khách hàng.</p>
+<b>Website người dùng</b>
+<table>
+  <tr>
+    <th>STT</th>
+    <th>Chức năng</th>
+    <th>Phân công</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Đăng nhập, đăng ký</td>
+    <td>2001215608</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Duyệt sản phẩm, tìm kiếm, lọc và sắp xếp</td>
+    <td>2001216122</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Xem chi tiết sản phẩm, thêm vào giỏ hàng</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Giỏ hàng và thanh toán</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Thông tin thêm, tin tức và khuyến mãi</td>
+    <td>2001210828</td>
+  </tr>
+</table> 
+<b>Website cho admin</b>
+<table>
+  <tr>
+    <th>STT</th>
+    <th>Chức năng</th>
+    <th>Phân công</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Đăng nhập</td>
+    <td>2001215608</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Quản lý danh mục sản phẩm, loại, kích cỡ, kiểu dáng,...</td>
+    <td>2001216122</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Quản lý đơn hàng</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Quản lý nhập hàng</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Quản lý thông tin, tin tức và khuyến mãi</td>
+    <td>2001210828</td>
+  </tr>
+</table> 
+<b>Application cho nhân viên</b>
+<table>
+  <tr>
+    <th>STT</th>
+    <th>Chức năng</th>
+    <th>Phân công</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Đăng nhập</td>
+    <td>2001215608</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Duyệt sản phẩm, tìm kiếm, lọc và sắp xếp</td>
+    <td>2001216122</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Lập và xuất hóa đơn</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Thống kê doanh thu theo ngày, tháng, năm</td>
+    <td>2001210828</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Kiểm kho</td>
+    <td>2001210828</td>
+  </tr>
+</table> 
 <h3>4.1. Yêu cầu</h3>
