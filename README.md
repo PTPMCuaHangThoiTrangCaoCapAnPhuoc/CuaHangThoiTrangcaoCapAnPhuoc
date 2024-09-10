@@ -168,6 +168,7 @@
     <td>5</td>
     <td>Kiểm kho</td>
     <td>2001210828</td>
+    <td>0%</td>
   </tr>
 </table> 
 <h3>4.1. Yêu cầu</h3>
