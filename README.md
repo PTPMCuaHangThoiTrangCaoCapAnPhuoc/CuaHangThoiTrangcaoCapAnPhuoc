@@ -77,6 +77,11 @@
     <td>Thông tin thêm, tin tức và khuyến mãi</td>
     <td>2001210828</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Chatbox hỗ trợ khách hàng</td>
+    <td>2001210828</td>
+  </tr>
 </table> 
 <b>Website quản lý</b>
 <p>Website đảm bảo công tác quản lý bao gồm quản lý các danh mục cần thiết, theo dõi đơn hàng, báo cáo thống kêkê và các nghiệp vụ cần thiết khác</p>
