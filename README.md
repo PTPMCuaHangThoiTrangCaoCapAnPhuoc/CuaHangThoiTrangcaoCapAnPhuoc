@@ -44,7 +44,7 @@
 <hr>
 <h1>4. Mô tả dự án</h1>
 <h3>4.1. Mô tả</h3>
-<b>Website bán hànghàng</b>
+<b>Website bán hàng</b>
 <p>Hệ thống website đảm bảo các chức năng cần thiết cho khách hàng có thể xem và mua hàng bao gồm các chức năng duyệt và tìm kiếm sản phẩm, xem sản phẩm và đặt hàng, theo dõi đơn hàng,... Bên cạnh đó, website kèm theo AI chatbox hỗ trợ khách hàng đảm bảo công tác hỗ trợ và tư vấn nhanh cho khách hàng.</p>
 <table>
   <tr>
