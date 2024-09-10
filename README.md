@@ -39,12 +39,13 @@
 </ul>
 <hr>
 <h1>3. Tổng quan dự án</h1>
+<p>Hệ thống phần mềm cửa hàng thời trang An Phước được thiết kế để nâng cao hiệu quả quản lý và trải nghiệm khách hàng thông qua ba thành phần chính: một website cho người dùng, một website cho admin, và một ứng dụng dành cho nhân viên. Mỗi thành phần của hệ thống đóng vai trò quan trọng trong việc tối ưu hóa quy trình hoạt động của cửa hàng và cung cấp dịch vụ chất lượng cao cho khách hàng.</p>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYk3Pdy3vjzp13_cSg_Vm-rfVywSfiTSoNXQMdeGfaThSBae-XjzvgQe8leZXtGUavw2NYmVySlDJ0Ou2Ymzod8Llr2uLMEPi2fZee_m19NAcjZeiEY3LIuyk9H5CuT5fiZVSMnXVOR-J216-t9Q_y_EtVBdY3pBYQtDpWFUm_gRRP_y5b2GqzvJ6/s960/132.png" />
 <hr>
 <h1>4. Mô tả dự án</h1>
 <h3>4.1. Mô tả</h3>
-<p>Hệ thống phần mềm cửa hàng thời trang An Phước được thiết kế để nâng cao hiệu quả quản lý và trải nghiệm khách hàng thông qua ba thành phần chính: một website cho người dùng, một website cho admin, và một ứng dụng dành cho nhân viên. Mỗi thành phần của hệ thống đóng vai trò quan trọng trong việc tối ưu hóa quy trình hoạt động của cửa hàng và cung cấp dịch vụ chất lượng cao cho khách hàng.</p>
 <b>Website người dùng</b>
+<p>Hệ thống website đảm bảo các chức năng cần thiết cho khách hàng có thể xem và mua hàng bao gồm các chức năng duyệt và tìm kiếm sản phẩm, xem sản phẩm và đặt hàng, theo dõi đơn hàng,... Bên cạnh đó, website kèm theo AI chatbox hỗ trợ khách hàng đảm bảo công tác hỗ trợ và tư vấn nhanh cho khách hàng.</p>
 <table>
   <tr>
     <th>STT</th>
@@ -78,6 +79,7 @@
   </tr>
 </table> 
 <b>Website cho admin</b>
+<p>Website đảm bảo công tác quản lý bao gồm quản lý các danh mục cần thiết, theo dõi đơn hàng, báo cáo thống kêkê và các nghiệp vụ cần thiết khác</p>
 <table>
   <tr>
     <th>STT</th>
@@ -111,6 +113,7 @@
   </tr>
 </table> 
 <b>Application cho nhân viên</b>
+<p>Về khía cạnh bán hàng ofline tại cửa hàng, app được cài đặt sẵn trên máy tính tại cửa hàng đảm bảo nghiệp vụ bán hàng dành cho nhân viên sử dụng. Bao gồm một số chức năng chính như tạo lập đơn hàng, kiểm duyệt sản phẩm, kiểm kho,...</p>
 <table>
   <tr>
     <th>STT</th>
