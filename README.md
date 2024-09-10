@@ -38,9 +38,8 @@
   <li>Html & css, Bootstrap</li>
 </ul>
 <hr>
-<h1>3. Thông tin mô tả chi tiết</h1>
-<h3>Tổng quan dự án</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmJcfM-0XztSygKpQQooahhypXi90ff__Jw&s" heigh="200px" />
+<h1>3. Tổng quan dự án</h1>
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMwX1pbMfckQ5Q7Sj3rszg7RsCKLZkQfGmSlV_BODRG528bOQ2Pjl4=w960-h540-s-no-gm?authuser=0" />
 <hr>
 <h1>4. Mô tả dự án</h1>
 <h3>4.1. Mô tả</h3>
