@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DAL2\obj\Debug\DAL2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DAL2\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
