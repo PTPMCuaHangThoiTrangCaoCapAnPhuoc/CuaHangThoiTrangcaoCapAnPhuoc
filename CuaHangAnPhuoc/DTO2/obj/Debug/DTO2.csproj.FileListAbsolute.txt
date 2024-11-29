@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\bin\Debug\DTO2.dll
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\bin\Debug\DTO2.pdb
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\obj\Debug\DTO2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\obj\Debug\DTO2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\obj\Debug\DTO2.dll
+C:\Users\Administrator\Documents\Github\CuaHangThoiTrangcaoCapAnPhuoc\CuaHangAnPhuoc\DTO2\obj\Debug\DTO2.pdb
