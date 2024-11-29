@@ -474,6 +474,16 @@
         "runtime": {
           "lib/net8.0/ZstdSharp.dll": {}
         }
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
       }
     }
   },
@@ -1601,10 +1611,16 @@
         "zstdsharp.port.0.8.0.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DTO >= 1.0.0",
       "MySql.Data >= 9.1.0"
     ]
   },
@@ -1615,11 +1631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangAnPhuoc\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangAnPhuoc\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangAnPhuoc\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1640,7 +1656,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO\\DTO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

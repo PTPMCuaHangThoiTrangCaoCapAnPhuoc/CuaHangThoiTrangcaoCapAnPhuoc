@@ -4,21 +4,25 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DTO;
 
 namespace DAL
 {
     public class DALchatlieu
     {
-        private string connectionString;
+        DatabaseAccessLayer db;
 
         public DALchatlieu(string connectionString)
         {
-            this.connectionString = connectionString;
+            db = new DatabaseAccessLayer(connectionString);
         }
         public DataTable load()
         {
-            string query = "SELECT COUNT(*) FROM Products";
-            
+            string query = "SELECT * FROM chatchieu";
+            DataTable dt = new DataTable();
+            dt = db.ExecuteQuery(query);
+            return dt;
         }
+        
     }
 }
