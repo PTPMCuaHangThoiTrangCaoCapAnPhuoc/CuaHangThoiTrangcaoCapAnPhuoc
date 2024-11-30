@@ -46,5 +46,19 @@ namespace DAL
             string query = "DELETE FROM `sanpham` WHERE id = "+id;
             return db.ExecuteNonQuery(query);
         }
+
+        public DataTable selectDayDu()
+        {
+            string quyery = "SELECT sp.id, `MaSanPham`, `TenSanPham`, `HinhAnh`, `SoLuong`, `GiaBan`,l.TenLoai,ms.TenMauSac, size.TenSize, cl.TenChatLieu, kd.TenKieuDang, sp.LoaiSanPham " +
+                "FROM `sanpham` sp, loaisanpham l, mausac ms, size, chatlieu cl, kieudang kd" +
+                " WHERE sp.enable = true and sp.LoaiSanPham=l.MaLoai and sp.MauSac=ms.MaMauSac and sp.Size=size.MaSize and sp.ChatLieu=cl.MaChatLieu and sp.KieuDang=kd.MaKieuDang;";
+            return db.ExecuteQuery(quyery);
+        }
+
+        public bool updateSoLuong(int id, int sl)
+        {
+            string query = "UPDATE `sanpham` SET`SoLuong`= SoLuong - "+sl+" WHERE id =" + id;
+            return db.ExecuteNonQuery(query);
+        }
     }
 }

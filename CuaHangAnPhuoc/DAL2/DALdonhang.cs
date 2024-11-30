@@ -29,6 +29,18 @@ namespace DAL
                 "VALUES ('"+_donhang.Makhachhang+"', '"+_donhang.Ngaydathang.ToString("yyyy-MM-dd")+"', N'"+_donhang.Diachiship+"',"+_donhang.Tongien+" , '"+_donhang.Ngayxacnhan.ToString("yyyy-MM-dd")+"', '"+_donhang.Ngayxoa.ToString("yyyy-MM-dd")+"')";
             return db.ExecuteNonQuery(query);
         }
+        public bool insertDonGian(donhang _donhang)
+        {
+            string query = "INSERT INTO `donhang`( `MaKhachHang`, `NgayDatHang`,  `TongTien`, `NgayXacNhan`) " +
+               "VALUES ('" + _donhang.Makhachhang + "', '" + _donhang.Ngaydathang.ToString("yyyy-MM-dd") + "'," + _donhang.Tongien + " , '" + _donhang.Ngayxacnhan.ToString("yyyy-MM-dd") + "')";
+            return db.ExecuteNonQuery(query);
+        }
+        public bool insertDonGianKhongKhachHang(donhang _donhang)
+        {
+            string query = "INSERT INTO `donhang`(  `NgayDatHang`,  `TongTien`, `NgayXacNhan`) " +
+               "VALUES ( '" + _donhang.Ngaydathang.ToString("yyyy-MM-dd") + "'," + _donhang.Tongien + " , '" + _donhang.Ngayxacnhan.ToString("yyyy-MM-dd") + "')";
+            return db.ExecuteNonQuery(query);
+        }
         public bool update(donhang _donhang)
         {
             string query = "UPDATE `donhang` " +
