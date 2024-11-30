@@ -1,50 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\bll2\\blluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL.csproj|solutionrelative:bll2\\blluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\desktop\\bao\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\frmnhanvien\\frmnvmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\frmnhanvien\\frmnvmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BLL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL2.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\bll2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL2.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\bll2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL2.csproj|solutionrelative:bll2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\dal2\\dalchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\dal2\\dalchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|solutionrelative:dal2\\dalchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\dal2\\databaseaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\dal2\\databaseaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69994592-F8C6-4D73-875F-4A89B5EBE9C0}|DAL2\\DAL2.csproj|solutionrelative:dal2\\databaseaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\dto2\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\dto2\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|solutionrelative:dto2\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\dto2\\chatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\dto2\\chatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{041E5F13-A654-4744-8D93-9EFF5393EF3E}|DTO2\\DTO2.csproj|solutionrelative:dto2\\chatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CuaHangAnPhuoc||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\cuahanganphuoc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\cuahanganphuoc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|solutionrelative:cuahanganphuoc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{202A3EF3-29C3-4BF6-AE81-A79BD9EDDF4A}|CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\cuahanganphuoc\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F997985-B82B-4CC5-B8CF-0A4D8E889385}|BLL2\\BLL.csproj|c:\\users\\administrator\\documents\\github\\cuahangthoitrangcaocapanphuoc\\cuahanganphuoc\\bll2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,66 +68,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BLL",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL2\\BLL.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLL.csproj",
-              "RelativeToolTip": "BLL2\\BLL.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-29T15:43:43.683Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Program.cs",
+              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Program.cs",
+              "RelativeToolTip": "CuaHangAnPhuoc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:45:27.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL2\\Class1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\Class1.cs",
-              "RelativeToolTip": "BLL2\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BLLuser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLLuser.cs",
+              "RelativeDocumentMoniker": "BLL2\\BLLuser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLLuser.cs",
+              "RelativeToolTip": "BLL2\\BLLuser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:42:11.743Z",
+              "WhenOpened": "2024-11-30T03:38:59.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DALchatlieu.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DALchatlieu.cs",
-              "RelativeDocumentMoniker": "DAL2\\DALchatlieu.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DALchatlieu.cs",
-              "RelativeToolTip": "DAL2\\DALchatlieu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmDangNhap.cs",
+              "RelativeToolTip": "CuaHangAnPhuoc\\frmDangNhap.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwCoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:41:12.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatabaseAccessLayer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DatabaseAccessLayer.cs",
-              "RelativeDocumentMoniker": "DAL2\\DatabaseAccessLayer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DatabaseAccessLayer.cs",
-              "RelativeToolTip": "DAL2\\DatabaseAccessLayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:39:18.183Z",
+              "WhenOpened": "2024-11-30T03:36:50.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "CuaHangAnPhuoc\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:30:59.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNVMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmNhanVien\\frmNVMain.cs",
+              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\frmNhanVien\\frmNVMain.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\frmNhanVien\\frmNVMain.cs [Design]",
+              "RelativeToolTip": "CuaHangAnPhuoc\\frmNhanVien\\frmNVMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:15:47.31Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL2\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\Class1.cs",
+              "RelativeToolTip": "BLL2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:42:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALchatlieu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DALchatlieu.cs",
+              "RelativeDocumentMoniker": "DAL2\\DALchatlieu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DALchatlieu.cs",
+              "RelativeToolTip": "DAL2\\DALchatlieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:41:12.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
               "RelativeDocumentMoniker": "CuaHangAnPhuoc\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
+              "RelativeToolTip": "CuaHangAnPhuoc\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:59:38.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL2\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\BLL2\\BLL.csproj",
+              "RelativeToolTip": "BLL2\\BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T15:43:43.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DatabaseAccessLayer.cs",
+              "RelativeDocumentMoniker": "DAL2\\DatabaseAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DAL2\\DatabaseAccessLayer.cs",
+              "RelativeToolTip": "DAL2\\DatabaseAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:39:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
+              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs [Design]",
               "RelativeToolTip": "CuaHangAnPhuoc\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T10:58:08.918Z",
@@ -121,62 +207,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
-              "RelativeDocumentMoniker": "CuaHangAnPhuoc\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\Form1.cs",
-              "RelativeToolTip": "CuaHangAnPhuoc\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwB8AAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:59:38.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "chitietdonhang.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chitietdonhang.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chitietdonhang.cs",
               "RelativeDocumentMoniker": "DTO2\\chitietdonhang.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chitietdonhang.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chitietdonhang.cs",
               "RelativeToolTip": "DTO2\\chitietdonhang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:36:02.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:36:02.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "chatlieu.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chatlieu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chatlieu.cs",
               "RelativeDocumentMoniker": "DTO2\\chatlieu.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chatlieu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\DTO2\\chatlieu.cs",
               "RelativeToolTip": "DTO2\\chatlieu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:35:53.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:35:53.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "CuaHangAnPhuoc",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
               "RelativeDocumentMoniker": "CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
               "RelativeToolTip": "CuaHangAnPhuoc\\CuaHangAnPhuoc.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-29T15:30:39.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:30:39.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\App.config",
               "RelativeDocumentMoniker": "CuaHangAnPhuoc\\App.config",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Github\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Bao\\CuaHangThoiTrangcaoCapAnPhuoc\\CuaHangAnPhuoc\\CuaHangAnPhuoc\\App.config",
               "RelativeToolTip": "CuaHangAnPhuoc\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
