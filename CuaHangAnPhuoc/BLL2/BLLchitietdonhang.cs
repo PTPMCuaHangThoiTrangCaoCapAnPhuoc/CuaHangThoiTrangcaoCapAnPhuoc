@@ -15,5 +15,9 @@ namespace BLL
         {
             dal = new DALchitietdonhang(connectString);
         }
+        public bool themCTDH(chitietdonhang _chitietdonhang)
+        {
+            return dal.insert(_chitietdonhang);
+        }
     }
 }

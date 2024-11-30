@@ -26,7 +26,7 @@ namespace DAL
         public bool insert(chitietdonhang _chitietdonhang)
         {
             string query = "INSERT INTO `chitietdonhang`(`MaDonHang`, `MaSanPham`, `SoLuong`, `DonGia`)" +
-                " VALUES ("+_chitietdonhang.Madonhang+" ,"+_chitietdonhang.Masanpham+","+_chitietdonhang.Soluong+" ,"+_chitietdonhang.Dongia+" )";
+                " VALUES ("+_chitietdonhang.Madonhang+" ,'"+_chitietdonhang.Masanpham+"',"+_chitietdonhang.Soluong+" ,"+_chitietdonhang.Dongia+" )";
             return db.ExecuteNonQuery(query);
         }
         public bool update(chitietdonhang _chitietdonhang)
