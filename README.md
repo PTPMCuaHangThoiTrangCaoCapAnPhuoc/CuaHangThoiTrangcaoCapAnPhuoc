@@ -1,5 +1,5 @@
 <h1>Đồ án: <i>Cửa hàng thời trang cao cấp An Phước</i></h1>
-<p>Tiến độ: 50%</p>
+<p>Tiến độ: 60%</p>
 <hr>
 <h1>1. Thành viên:</h1>
 <table>
